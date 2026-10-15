@@ -1,0 +1,5 @@
+Synthetic educational dataset — not clinical guidance.
+
+Medication safety depends on the exact medicine, dose, allergies, conditions, age, pregnancy status and other medicines. Patients should not change prescribed treatment solely from an AI response.
+
+Severe breathing difficulty, loss of consciousness, severe chest pain, or other emergency symptoms require urgent professional evaluation.

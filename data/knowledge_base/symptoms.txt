@@ -1,0 +1,3 @@
+Synthetic educational dataset — not clinical guidance.
+
+Persistent or severe symptoms can have many causes and may require professional assessment. The application should not infer a diagnosis from symptoms or images and should encourage qualified medical evaluation when appropriate.

@@ -1,0 +1,3 @@
+Synthetic educational dataset — not clinical guidance.
+
+Preventive care and screening depend on age, risk factors, family history, previous results and current recommendations. Screening intervals are not universal and should be checked against authoritative current guidance.
